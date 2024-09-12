@@ -50,13 +50,13 @@ The data used for this analysis was taken from the website Kaggle.com included 1
 Firstly, I transformed the data into Powe Query in Power BI and I checked for errors and null values in the data column by columns,  
 replaced the blank values with 0
 
-                     ![image](https://github.com/user-attachments/assets/0fd87bd4-1755-4870-a746-3dfed6eccf37)
+ ![image](https://github.com/user-attachments/assets/0fd87bd4-1755-4870-a746-3dfed6eccf37)
 
 
 
 I grouped column Director and Cast to analyse the Top Director and Cast Member:
  
-                ![image](https://github.com/user-attachments/assets/5db8bbfb-d9a4-4f6d-885e-2cfac85e8655)
+ ![image](https://github.com/user-attachments/assets/5db8bbfb-d9a4-4f6d-885e-2cfac85e8655)
 
 
 
