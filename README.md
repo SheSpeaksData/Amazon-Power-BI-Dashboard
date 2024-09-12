@@ -9,7 +9,6 @@ Amazon Prime Video is a subscription-based streaming service offered by Amazon, 
 
 ![image](https://github.com/user-attachments/assets/7850e2d5-7971-4a4b-b1a0-e31eedaa8c43)
 
-<u>**This text will be bold and underlined**</u>
 
 
 **Problem Definition:**
