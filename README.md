@@ -98,14 +98,14 @@ The subsequent sections of the report will provide detailed analysis and insight
  ![image](https://github.com/user-attachments/assets/c8ee00a7-04c6-4e47-ab8e-6ed46b9d1a0e)
 
 
-<u>**Insights:**<u>
+<u>**Insights:**</u>
 
 -	The majority of TV shows were 13+ Rating meaning most are suitable for pre-teens to watch on Amazon prime
 -	Given the distribution indicated a generally positive reception from viewers
 
 	![image](https://github.com/user-attachments/assets/22c7d826-e494-4e1d-a8db-a88120a7418d)
 
-<u>**Insights:**<u>
+<u>**Insights:**</u>
 
 -	Drama is the most prevalent genre across both Movies and TV shows, followed Comedy and Drama with Suspense
 -	Movies have a higher representation in Drama and Comedy which indicates a preference for these genres in cinematic formats
@@ -113,7 +113,7 @@ The subsequent sections of the report will provide detailed analysis and insight
 ![image](https://github.com/user-attachments/assets/51295096-778b-410a-b90e-0a5d29ba28c8)
 
 
-<u>**Insights:**<u>
+<u>**Insights:**</u>
 
 In the dashboard you can see the US contributes to the largest number of both Movies and TV shows with 253 content. Followed by India with 229 content.
 
@@ -129,7 +129,7 @@ The ratio of Movies and TV shows is approximately 80% to 19%
 
 ![image](https://github.com/user-attachments/assets/9de81595-e47c-4c0c-afbf-f76accef004b)
 
-<u>**Insights:**<u>
+<u>**Insights:**</u>
 
 -	This graph represents the steady increase in the number of Content either Movie or TV shows over the years based on the release_year . This reflects the growing content available on Amazon Prime Video
 -	Recent years show a significance spike in the number of releases indicating the upward trend in content production and traction of users to the  Amazon Prime Video platform
@@ -143,7 +143,7 @@ The analysis above identifies opportunities to attract and retain subscribers th
 
 
 
-<u>**Recommendations**<u>
+<u>**Recommendations**</u>
 1.	Identify Top performing content: Based on viewership prioritise promoting and featuring top-performing movies and TV shows prominently on the platform.
 2.	Invest in acquiring rights to top performing Tv shows and movies to stream on platform.
 3.	Personalised recommendations:  Diving deeper with data create machine learning algorithms to personalise content recommendation based on individual user preferences, viewing history etc.
